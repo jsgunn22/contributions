@@ -1,2 +1,2 @@
 console.log("kxwwy")
-console.log("aahkh")
+console.log("means")
