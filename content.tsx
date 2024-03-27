@@ -1,1 +1,1 @@
-console.log("lnjkq")
+console.log("wprat")
