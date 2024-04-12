@@ -1,1 +1,1 @@
-console.log("gsnkk")
+console.log("uitqq")
