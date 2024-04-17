@@ -1,1 +1,1 @@
-console.log("bocpa")
+console.log("enkat")
