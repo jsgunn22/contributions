@@ -1,1 +1,1 @@
-console.log("oicso")
+console.log("aokmp")
