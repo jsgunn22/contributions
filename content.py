@@ -1,2 +1,2 @@
 print("vwltl")
-print("todwa")
+print("alatv")
