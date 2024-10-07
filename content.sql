@@ -8,3 +8,4 @@ SELECT * from miviw;
 SELECT * from phbwo;
 SELECT * from drhbx;
 SELECT * from lixcy;
+SELECT * from jgeyq;
